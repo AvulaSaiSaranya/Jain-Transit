@@ -1,0 +1,6 @@
+{
+  "name": "JAIN TRANSIT",
+  "description": "Campus transit tracker for Jain University commuters featuring live shuttle GPS, stop-by-stop driver checklists, bay departure boards, official gate timetables, and emergency SOS dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
